@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(14, 5, 5);
+    color: wheat;
+}
+
+
+
+.card {
+    padding: 20px;
+    background-color: #444;
+    color: white;
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: black;
+    color: white;
+}
+
+.form-group {
+    margin: 20px 0px;
+}
+
+
+.table i {
+    font-size: 20px;
+}
